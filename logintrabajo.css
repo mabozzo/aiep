@@ -1,0 +1,45 @@
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+#contenedor{
+ 
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    left: 200px;
+    right: 200px;
+    background-color: black;
+    margin-left: 550px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}
+
+footer{
+    text-align: center;
+    margin-top: 200px;
+    background-color: white;
+}
+body{
+     background-color: gray;
+}
+
+form{
+     
+    background-color: black;
+    text-align: center;
+   
+    padding-top: 30px;
+    margin-left: inherit;
+    margin-top: 20px;
+}
+
+input{
+    
+    margin-top: 14px;
+}
